@@ -1,0 +1,6 @@
+Tkinter - pip install tk
+Keyboard - pip install keyboard
+Date and Time - datetime
+bs4(Beautiful Soup) - pip install bs4
+Requests - pip install requests
+PyJokes - pip install pyjokes
